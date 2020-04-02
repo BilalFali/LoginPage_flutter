@@ -3,4 +3,5 @@
 A new Flutter project.
 
 ## ScreenShots
-[Screenshot](https://user-images.githubusercontent.com/60944706/78259579-ca1d9500-74f4-11ea-8b53-ca386d80d78b.png)
+![Screenshot](https://user-images.githubusercontent.com/60944706/78259898-30a2b300-74f5-11ea-972b-c460a5285ba4.png)
+
