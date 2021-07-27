@@ -1,6 +1,6 @@
-# helloworld
+# Simple Flutter Login page UI
 
-A new Flutter project.
+A Simple Flutter Login page UI.
 
 ## ScreenShots
 
